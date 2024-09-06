@@ -1,0 +1,96 @@
+This project is a markdown/jupiter file. It is designed for AnimalHack2024. The codebase consists of several segments, each of which can be run independently to make spesific graphs. The output of each segment is designed to be easily readable and interpretable.
+##IMPORTNAT##
+made for VScode compackt all code segments. A few of the data acleaning and engering outputs 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Code Structure](#code-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
+To get started with this project, you need to have [required software or tools]. Follow these steps to set up the environment:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
+   ```
+
+2. Navigate into the project directory:
+   ```bash
+   cd your-repo
+   ```
+
+3. Install dependencies:
+   ```bash
+   # For Python
+   pip install -r requirements.txt
+
+   # For R
+   Rscript -e "install.packages(c('required_package1', 'required_package2'))"
+   ```
+
+4. [Any additional setup instructions]
+
+## Usage
+
+Each segment of code in this project is designed to be run individually. Here’s how you can use the code:
+
+1. Open the project in [your preferred IDE, e.g., VSCode].
+2. Run each segment of code in the provided order to get the desired results. Each segment is compacted and closed for ease of use.
+3. [Provide any examples or explanations of what each segment does and how to interpret the output.]
+
+Example command to run a segment:
+```bash
+python segment1.py
+```
+or
+```r
+source("segment2.R")
+```
+
+## Code Structure
+
+The codebase is organized into the following segments:
+
+- `segment1.py` - [Brief description of what this segment does]
+- `segment2.R` - [Brief description of what this segment does]
+- [Add descriptions for additional segments as needed]
+
+Each segment is self-contained and designed to be run independently. The output of each segment is designed to be easily readable and interpretable.
+
+## Contributing
+
+Contributions to this project are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -am 'Add new feature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Create a new Pull Request.
+
+Please ensure that your code adheres to the project’s coding standards and includes appropriate tests.
+
+## License
+
+This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact [Your Name] at [your-email@example.com].
+
+---
+
+Feel free to customize each section to fit your project's specifics. Let me know if there's anything else you'd like to add or adjust!
